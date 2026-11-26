@@ -1,14 +1,15 @@
 const styles = {
   boxWidth: "xl:max-w-[1280px] w-full",
 
-  heading2: "font-poppins font-semibold xs:text-[48px] text-[40px] text-white xs:leading-[76.8px] leading-[66.8px] w-full",
-  paragraph: "font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px]",
+  heading2: "font-display font-semibold xs:text-[44px] text-[34px] text-white xs:leading-[1.15] leading-[1.2] tracking-tight w-full",
+  paragraph: "font-body font-normal text-dimWhite text-[17px] leading-[1.75]",
+  eyebrow: "inline-flex items-center gap-2 font-body font-medium text-[13px] uppercase tracking-[0.18em] text-secondary mb-5",
 
   flexCenter: "flex justify-center items-center",
   flexStart: "flex justify-center items-start",
 
   paddingX: "sm:px-16 px-6",
-  paddingY: "sm:py-16 py-6",
+  paddingY: "sm:py-24 py-12",
   padding: "sm:px-16 px-6 sm:py-12 py-4",
 
   marginX: "sm:mx-16 mx-6",
